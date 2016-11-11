@@ -1,0 +1,10 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+
+  "dependencies": {
+    "kafka-node": "~1.0.5",
+    "optimist": "~0.6.1",
+    "async": "~2.1.2"
+  }
+}
